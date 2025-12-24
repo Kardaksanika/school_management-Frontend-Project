@@ -5,7 +5,6 @@ const LoginPage = ({ onBack }) => {
     <div style={styles.container}>
       <h2>Login Page</h2>
 
-      {/* Directly show login options */}
       <div style={styles.optionsBox}>
         <button style={styles.optionBtn}>Admin Login</button>
         <button style={styles.optionBtn}>General Login</button>

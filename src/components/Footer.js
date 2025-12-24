@@ -94,7 +94,7 @@ const styles = {
     marginBottom: "6px",
     padding: "6px 10px",
     background: "white",
-    color: "#1e3a8a",
+    color: "#003366",
     border: "none",
     borderRadius: "4px",
     cursor: "pointer",
@@ -104,9 +104,8 @@ const styles = {
     marginTop: "10px",
     textAlign: "center",
     padding: "12px 0",
-    background: "#152c63",
+    background:"#003366",
     fontSize: "13px",
   },
 };
-
 export default Footer;
